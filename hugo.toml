@@ -12,4 +12,5 @@ title = "Sarah June Sachs"
 
   hideSummary = false
   ShowBreadCrumbs = false
-  hideFooter = true
+  hideFooter = false
+  footerText = "© 2026 Sarah June Sachs"
