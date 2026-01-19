@@ -1,3 +1,14 @@
 baseURL = "https://sarahJune1.github.io/"
 theme = "PaperMod"
 title = "Sarah June Sachs"
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = true
+  
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  hideSummary = false
+  ShowBreadCrumbs = false
