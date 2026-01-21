@@ -1,0 +1,64 @@
+/* =========================
+   Projects – Featured Card
+   ========================= */
+
+   .projects-featured {
+    margin-top: 1rem;
+  }
+  
+  .projects-featured-card {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2.5rem;
+  }
+  
+  .projects-featured-card .post-content {
+    margin-top: 0;
+  }
+  
+  /* Headings inside the featured card */
+  .projects-featured-card h2,
+  .projects-featured-card h3,
+  .projects-featured-card h4 {
+    margin-top: 2.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  .projects-featured-card h2:first-child,
+  .projects-featured-card h3:first-child {
+    margin-top: 0;
+  }
+  
+  /* Lists inside the featured card */
+  .projects-featured-card ul,
+  .projects-featured-card ol {
+    margin-top: 0.75rem;
+    margin-bottom: 1.5rem;
+    padding-left: 1.25rem;
+  }
+  
+  .projects-featured-card li {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* =========================
+     Projects – Page Intro
+     ========================= */
+  
+  body.list .page-header {
+    margin-bottom: 1rem;
+  }
+  
+  body.list .page-header .page-description p {
+    margin-bottom: 1rem;
+    line-height: 2;
+  }
+
+/* Section hierarchy on Projects page */
+body.list .page-header + h2 {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+  }
+  
