@@ -1,7 +1,9 @@
 ---
 title: "Projects"
 menu: "main"
-weight: 20
+weight: 40
 ---
 
-Selected work in civic tech, data science, and the earth.
+A selection of civic technology, data analysis, and creative projects.
+
+## Featured Projects
